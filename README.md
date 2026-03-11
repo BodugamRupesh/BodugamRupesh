@@ -1,4 +1,4 @@
-# Hi, I'm Rupesh 👋
+# Hi, I'm Bodugam Rupesh  Reddy👋
 
 I build AI-powered applications using LLMs, RAG pipelines, and vector search systems.
 
